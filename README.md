@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [GitHub](https://github.com/piyush-kaushik24/expenses-chart-component)
-- Live Site URL: [Expenses chart component](<>)
+- Live Site URL: [Expenses chart component](https://expenses-chart-component-navy-two.vercel.app/)
 
 ## My process
 
